@@ -1,3 +1,4 @@
+
 public class basics {
 
     //static varaiable
@@ -25,3 +26,9 @@ public class basics {
 
     }
 }
+
+//4 pillars of OOPS
+/*Abstraction - Data Abstraction may also be defined as the process of identifying only the required characteristics of an object, 
+ignoring the irrelevant details. The properties and behaviors of an object differentiate it from other objects of 
+similar type and also help in classifying/grouping the object. */
+
